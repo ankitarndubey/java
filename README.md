@@ -1,2 +1,1 @@
-# git
-Basic git commands practice
+Java practice 
